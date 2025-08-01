@@ -11,7 +11,7 @@ const DiluarJamLayananPage = () => {
       <div className="flex flex-col h-[100dvh] iphone-cursor">
         <div className="flex flex-col gap-3 px-4 py-3">
           <img
-            src="/sapawarga/503-logo.svg"
+            src="/UNIBOOKSTORE/503-logo.svg"
             alt="503-logo"
             className="object-cover rounded-md mx-auto"
           />
